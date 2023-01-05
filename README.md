@@ -35,5 +35,5 @@ Use the `README.md` to get started.
 [stars-url]: https://github.com/Twitfbiats/OOP-BIG-PROJECT/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Twitfbiats/OOP-BIG-PROJECT?style=for-the-badge
 [issues-url]: https://github.com/Twitfbiats/OOP-BIG-PROJECT/issues
-[product-screenshot]: images/database-schema.png
+[product-screenshot]: img/database-schema.PNG
 
