@@ -25,7 +25,7 @@ Use the `README.md` to get started.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[commits-shield]: https://shields.io/github/commit-activity/w/Twitfbiats/OOP-BIG-PROJECT?style=for-the-badge
+[commits-shield]: https://img.shields.io/github/commit-activity/w/Twitfbiats/OOP-BIG-PROJECT?color=violet&label=commit&logo=e&style=for-the-badge
 [commits-url]: https://github.com/Twitfbiats/OOP-BIG-PROJECT/graphs/commit-activity
 [contributors-shield]: https://img.shields.io/github/contributors/Twitfbiats/OOP-BIG-PROJECT?style=for-the-badge
 [contributors-url]: https://github.com/Twitfbiats/OOP-BIG-PROJECT/graphs/contributors
