@@ -234,13 +234,13 @@ public class packageMainGUI extends JFrame {
 			object[2] = packageTemp.getWeight();
 			object[3] = packageTemp.getSenderName();
 			object[4] = packageTemp.getReceiverName();
-			object[5] = packageTemp.getFrom();
-			object[6] = packageTemp.getTo();
+			object[5] = packageTemp.getFrom().getLocation();
+			object[6] = packageTemp.getTo().getLocation();
 			object[7] = packageTemp.getDistance();
 			object[8] = packageTemp.getFee();
 			object[9] = packageTemp.getTransportType();
-			object[10] = packageTemp.getSendDate();
-			object[11] = packageTemp.getReceiveDateEstimation();
+			object[10] = packageTemp.getSendDate().getTime();
+			object[11] = packageTemp.getReceiveDateEstimation().getTime();
 			object[12] = packageTemp.getStatus();
 			objects[i++] = object;
 		}

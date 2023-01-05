@@ -9,7 +9,6 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @AllArgsConstructor
-@NoArgsConstructor
 @Getter
 @Setter
 public class Package
@@ -29,4 +28,10 @@ public class Package
     private Calendar sendDate;
     private Calendar receiveDateEstimation;
     private String status;
+
+    public Package()
+    {
+        this.from = new Address();
+        this.to = new Address();
+    }
 }

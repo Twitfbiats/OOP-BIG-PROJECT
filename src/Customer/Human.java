@@ -5,8 +5,9 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-// Generate getter and setter automatically
+// Generate constructor with no parameter automatically
 @NoArgsConstructor
+// Generate getter and setter automatically
 @Getter
 @Setter
 public class Human
