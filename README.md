@@ -4,6 +4,25 @@
 [![Issues][issues-shield]][issues-url]
 [![Commits][commits-shield]][commits-url]
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#database-schema">Database Schema</a>
+    </li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## Database Schema
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+Use the `README.md` to get started.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [commits-shield]: https://shields.io/github/last-commit/Twitfbiats/OOP-BIG-PROJECT?display_timestamp=committer&style=for-the-badge
@@ -16,4 +35,5 @@
 [stars-url]: https://github.com/Twitfbiats/OOP-BIG-PROJECT/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Twitfbiats/OOP-BIG-PROJECT?style=for-the-badge
 [issues-url]: https://github.com/Twitfbiats/OOP-BIG-PROJECT/issues
+[product-screenshot]: images/database-schema.png
 
