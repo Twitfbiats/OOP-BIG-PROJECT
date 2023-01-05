@@ -17,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Database Schema
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](img/database-schema.PNG)
 
 Use the `README.md` to get started.
 
