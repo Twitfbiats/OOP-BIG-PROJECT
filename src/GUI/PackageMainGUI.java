@@ -55,8 +55,8 @@ public class PackageMainGUI extends JFrame {
 		table1 = new JTable();
 
 		//======== this ========
-		setPreferredSize(new Dimension(1445, 900));
-		setMaximumSize(new Dimension(1500, 950));
+		setPreferredSize(new Dimension(1470, 900));
+		setMaximumSize(new Dimension(1550, 950));
 		setMinimumSize(new Dimension(640, 310));
 		setTitle("Package Management");
 		Container contentPane = getContentPane();
